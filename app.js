@@ -26,7 +26,7 @@
             actualArrayLength = actualArrayLength - 1;
           }
         }
-        if(actualArrayLength>2){
+        if(actualArrayLength>3){
           $scope.message = "Too Much!!";
         }
         else {
